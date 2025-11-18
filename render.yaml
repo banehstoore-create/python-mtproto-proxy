@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: python-mtprotoproxy
+    name: python-mtproto-proxy
     env: python
     plan: free
     buildCommand: ""
